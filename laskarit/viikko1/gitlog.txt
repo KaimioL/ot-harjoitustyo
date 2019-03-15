@@ -1,0 +1,87 @@
+commit 9e546f709f7ac33d5093b8f0ebb7db02448a7ab1
+Author: Lassi Kaimio <lassi@kaimio.fi>
+Date:   Fri Mar 15 13:34:24 2019 +0200
+ 
+    poistettu file1 ja uudelleennimetty file2 -> file22
+ 
+ tiedostoja/file2             | 0
+ tiedostoja/{file1 => file22} | 0
+ tiedostoja/file3             | 1 +
+ 3 files changed, 1 insertion(+)
+ 
+commit 7a3ee20d357a259d16b6bdd7f31713a559b57dcd
+Author: Lassi Kaimio <lassi@kaimio.fi>
+Date:   Fri Mar 15 13:29:16 2019 +0200
+ 
+    lisätty tiedostoja ja tiedostoja
+ 
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+ 
+commit 51d4fe05d7149bbf124ee3e1248e760ccd1b1599
+Author: Lassi Kaimio <lassi@kaimio.fi>
+Date:   Fri Mar 15 13:24:49 2019 +0200
+ 
+    muutettu tiedostoja eka.txt ja kolmas.txt
+ 
+ eka.txt      | 3 ++-
+ kolmas.txt   | 1 +
+ tiedosto.txt | 2 --
+ 3 files changed, 3 insertions(+), 3 deletions(-)
+ 
+commit 8a68e9927d729093f656f8397b442a632060deb0
+Author: Lassi Kaimio <lassi@kaimio.fi>
+Date:   Fri Mar 15 13:23:32 2019 +0200
+ 
+    uudelleen nimetty eka.txt
+ 
+ eka.txt | 2 ++
+ 1 file changed, 2 insertions(+)
+ 
+commit 288bd301f9fe525c462a95600dcd7d93cde33909
+Author: Lassi Kaimio <lassi@kaimio.fi>
+Date:   Fri Mar 15 13:22:54 2019 +0200
+ 
+    poistettu toinen.txt
+ 
+ toinen.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ 
+commit ff24d830af880de02d7a5a5e925f7922f50bc15e
+Author: Lassi Kaimio <lassi@kaimio.fi>
+Date:   Fri Mar 15 13:21:22 2019 +0200
+ 
+    lisätty hakemisto
+ 
+ "stuff/nelj\303\244s.txt" | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ 
+commit 4cb884f706de372a62e4a4e2345e25f9d25be808
+Author: Lassi Kaimio <lassi@kaimio.fi>
+Date:   Fri Mar 15 13:20:11 2019 +0200
+ 
+    lisätty .txt
+ 
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ 
+commit fc8b00130c42c1b91895eab3c6d7ddbadfa1da5d
+Author: Lassi Kaimio <lassi@kaimio.fi>
+Date:   Fri Mar 15 13:16:22 2019 +0200
+ 
+    muutos ja lisäys
+ 
+ tiedosto.txt | 2 ++
+ toinen.txt   | 0
+ 2 files changed, 2 insertions(+)
+ 
+commit 230357113ea982de44e0845ab5fa87d9b83f5cf8
+Author: Lassi Kaimio <lassi@kaimio.fi>
+Date:   Fri Mar 15 13:03:29 2019 +0200
+ 
+    tiedosto.txt luotu
+ 
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
