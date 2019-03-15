@@ -1,4 +1,9 @@
-#Tämä on readme
+#Ohjelmistotekniikka, harjoitustyö
 
-**tämä teksti on lihavoitu** 
-|ja tämä kursivoitu*
+#Tehtävät
+
+#Viikko 1
+
+[gitlog.txt](https://github.com/KaimioL/ot-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)
+
+[komentorivi.txt](https://github.com/KaimioL/ot-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
