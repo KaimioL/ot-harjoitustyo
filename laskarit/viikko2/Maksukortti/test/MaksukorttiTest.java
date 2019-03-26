@@ -107,19 +107,19 @@ public class MaksukorttiTest {
     
     @Test
     public void kortillaVoiOstaaEdullisenLounaanTasarahalla(){
-        Maksukortti kortti2 = new Maksukortti(2.5);
+        Maksukortti t = new Maksukortti(2.5);
         
-        kortti2.syoEdullisesti();
+        t.syoEdullisesti();
         
-        assertEquals("Kortilla on rahaa 0.0 euroa", kortti2.toString());
+        assertEquals("Kortilla on rahaa 0.0 euroa", t.toString());
     }
     
     @Test
     public void kortillaVoiOstaaMaukkaanLounaanTasarahalla(){
-        Maksukortti t = new Maksukortti(5);
+        Maksukortti t = new Maksukortti(4);
         
         t.syoMaukkaasti();
         
-        assertEquals("Kortilla on rahaa 1.0 euroa", t.toString());
+        assertEquals("Kortilla on rahaa 0.0 euroa", t.toString());
     }
 }
