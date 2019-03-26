@@ -49,4 +49,9 @@ public class MaksukorttiTest {
         assertTrue(kortti.otaRahaa(5));
         assertTrue(!kortti.otaRahaa(10));
     }
+    
+    @Test
+    public void saldoToimii(){
+        assertEquals(10, kortti.saldo());
+    }
 }
