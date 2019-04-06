@@ -4,4 +4,4 @@ Hat-Man on Pac-Man klooni joka yhdistää pelaamiseen kosmeettisten esineiden av
 
 ## Dokumentaatio
 
-[Vaatimusmäärittely] (https://github.com/KaimioL/ot-harjoitustyo/blob/master/laskarit/Projekti/Dokumentointi/Maaittelydokumentti.md)
+[Vaatimusmäärittely](https://github.com/KaimioL/ot-harjoitustyo/blob/master/laskarit/Projekti/Dokumentointi/Maaittelydokumentti.md)
